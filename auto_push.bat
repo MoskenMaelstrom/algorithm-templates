@@ -6,7 +6,7 @@ cd /d "C:\Users\你的用户名\Desktop\你的文件夹名"
 git add .
 
 :: 提交更改，备注包含当前的日期和时间
-git commit -m "Auto update: %date% %time%"
+git commit -m "Auto update"
 
 :: 推送到 GitHub (假设你的分支叫 main)
 git push origin main
