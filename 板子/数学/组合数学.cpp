@@ -1,4 +1,4 @@
-//带模数
+
 const int p=1e9+7;
 const int N=1e6;
 int jc[N+1];
